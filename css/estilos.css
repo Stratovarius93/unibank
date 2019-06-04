@@ -148,7 +148,7 @@ footer .footer1 .subFooter3 p, footer .footer1 .subFooter2 p, footer .footer1 .s
 }
 
 body {
-  background: url(../img/fondo.png);
+  background: url(../src/img/fondo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
